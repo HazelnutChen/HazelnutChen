@@ -1,5 +1,11 @@
-### Hi there 👋
-
+### 
+我就读于中南林业科技大学涉外学院，是计算机科学与技术专业3班的一名大三学生，预计于2022年毕业。
+爱好各种运动（游泳、篮球、足球、骑行等），但最近出现了各种因素使得出门运动的机会变少了许多。
+我会C/Java，了解Java Web/Mysql/Oracle数据库...
+目前对计算机网络方面感兴趣，我也在为相关的能力证书奋斗。
+之前的代码量在3000左右，本学期要求自己代码量翻倍。
+希望通过这门课学到软件工程基本的知识。
+在课程实践中担任核心人员。
 <!--
 **HazelnutChen/HazelnutChen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
